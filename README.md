@@ -4,7 +4,7 @@ Considering the differences in demographics and type of city that Cupertino and 
 ## Business Question
 How might household income levels impact the incarceration rate of the next generation in Cupertino and Baltimore?
 ## Data Question - Open Data
-I used open data from [Opportunity Atlas](https://www.opportunityatlas.org/
+I used open data from [Opportunity Atlas](https://www.opportunityatlas.org).
 
 ## Data Question - Analysis
  - How do the incarceration rates compare between Cupertino and Baltimore?
