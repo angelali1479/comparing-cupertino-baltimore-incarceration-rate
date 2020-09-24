@@ -12,4 +12,5 @@ I used open data from [Opportunity Atlas](https://www.opportunityatlas.org).
 ## Data Answer
 ### What is the average incarceration rate of both cities?
 ![alt text](https://github.com/angelali1479/comparing-cupertino-baltimore-incarceration-rate/blob/master/cup-balt.png)
+Here we can see that even though the incarceration rate overall in Baltimore is about ten times the rate in Cupertino, the actual difference between the two rates is not too large.
 ### How does incarceration rate distribution compare at different income levels?
