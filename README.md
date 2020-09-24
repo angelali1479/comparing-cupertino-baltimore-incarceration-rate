@@ -11,4 +11,5 @@ I used open data from [Opportunity Atlas](https://www.opportunityatlas.org).
  - Is there a correlation between incarceration rate and income levels in these two cities?
 ## Data Answer
 ### What is the average incarceration rate of both cities?
+![alt text](https://github.com/angelali1479/comparing-cupertino-baltimore-incarceration-rate/blob/master/cup-balt.png)
 ### How does incarceration rate distribution compare at different income levels?
