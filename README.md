@@ -16,3 +16,4 @@ Here we can see that even though the incarceration rate overall in Baltimore is 
 ### How does incarceration rate distribution compare at different income levels?
 ![alt text](https://github.com/angelali1479/comparing-cupertino-baltimore-incarceration-rate/blob/master/cupertino%20incarceration%20rate.xls)
 Looking at the Cupertino data comparing the incarceration rates across different income levels,
+![alt text](https://github.com/angelali1479/comparing-cupertino-baltimore-incarceration-rate/blob/master/baltimore.png)
